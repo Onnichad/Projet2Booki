@@ -496,6 +496,10 @@ footer a {
     grid-template-rows: repeat(2, 1fr);
   }
 
+  .circle {
+    padding: 0px 0px 0px 0px;
+  }
+
   .submit {
     display: none;
   }
